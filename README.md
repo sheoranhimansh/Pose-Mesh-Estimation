@@ -8,4 +8,4 @@ run ./rndscript.sh
 ![alt text](https://github.com/sheoranhimansh/Pose-Mesh-Estimation/blob/master/output/img_000001.png)
 ![alt text](https://github.com/sheoranhimansh/Pose-Mesh-Estimation/blob/master/output/joints_img_000001.png)
 ![alt text](https://github.com/sheoranhimansh/Pose-Mesh-Estimation/blob/master/output/img_000454.png)
-![alt text](https://github.com/sheoranhimansh/Pose-Mesh-Estimation/blob/master/output/joints_img_0000454.png)
+![alt text](https://github.com/sheoranhimansh/Pose-Mesh-Estimation/blob/master/output/joints_img_000454.png)
